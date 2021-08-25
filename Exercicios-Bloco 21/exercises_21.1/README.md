@@ -1,7 +1,7 @@
 # Bloco 21 - Exercícios Dia 1
 
 ###### Restaure o banco de dados abaixo antes de continuar:
-###### Para realizar os exercícios propostos para o dia, faremos uso da tabela employees do banco de dados hr . O banco de dados ser gerado e restaurado usando este arquivo SQL .
+###### Para realizar os exercícios propostos para o dia, faremos uso da tabela employees do banco de dados hr . O banco de dados ser gerado e restaurado usando _[este arquivo SQL](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/sql/hr-cebf8bc2a5bb252bc470ae28943604c6.sql)_ .
 
 ```
 ## Instruções de como restaurar o banco de dados
