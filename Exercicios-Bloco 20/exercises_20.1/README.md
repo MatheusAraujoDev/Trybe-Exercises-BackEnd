@@ -1,4 +1,4 @@
-# Bloco 20 - Exercício Dia 1
+# Bloco 20 - Exercícios Dia 1
 
 ###### Agora vamos abrir o Workbench e fazer uma análise prática do banco de dados sakila , que já deve estar instalado, caso você tenha feito a instalação do MySql Workbench de forma padrão. Caso o banco sakila não esteja disponível, volte até a seção Restaurando o banco de dados de prática sakila e siga as instruções listadas. Com esse banco disponível na sua instalação do Workbench , sua missão agora é tentar finalizar os exercícios a seguir!
 
