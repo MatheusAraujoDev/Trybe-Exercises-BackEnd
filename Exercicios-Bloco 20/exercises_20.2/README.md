@@ -1,4 +1,4 @@
-# Bloco 20 - Exercícios Dia 2
+# Bloco 20 - Exercício Dia 2
 
 ###### Para realizar os exercícios do 1 ao 15, restaure o banco de dados seguinte.
 
