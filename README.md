@@ -10,16 +10,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 20: Introdução à SQL
 
-- [ ] 20-1: _Banco de Dados SQL_
-- [ ] 20-2: _Encontrando dados em um Banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All for One]()_
+- [X] 20-1: _Banco de Dados SQL_
+- [X] 20-2: _Encontrando dados em um Banco de dados_
+- [X] 20-3: _Filtrando dados de forma específica_
+- [x] 20-4: _Manipulando tabelas_
+- [X] 20-5: _[Projeto - All for One]()_
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
-- [ ] 21-3: _Stored Routines & Stored Functions_
-- [ ] 21-4: _Manipulando tabelas_
+- [X] 21-1: _Funções mais usadas no SQL_
+- [X] 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
+- [X] 21-3: _Stored Routines & Stored Functions_
+- [X] 21-4: _Manipulando tabelas_
 - [ ] 21-5: _[Projeto - Vocabulary Bosster]()_
