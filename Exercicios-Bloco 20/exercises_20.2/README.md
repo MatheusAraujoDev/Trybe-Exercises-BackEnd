@@ -74,7 +74,7 @@ INSERT INTO Scientists(SSN,Name)
     (332569843, 'AeH4');
 ```
 
-Esse banco de dados é de uso livre, sendo licenciado de acordo com os termos deste link .
+Esse banco de dados é de uso livre, sendo licenciado de acordo com os termos deste _[link](https://creativecommons.org/licenses/by-sa/3.0/)_ .
 
 - Exercício 1 - Escreva uma query para exibir a string "This is SQL Exercise, Practice and Solution".
 
