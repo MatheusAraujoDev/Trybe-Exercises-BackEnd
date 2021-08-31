@@ -23,3 +23,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 21-3: _Stored Routines & Stored Functions_
 - [X] 21-4: _Manipulando tabelas_
 - [ ] 21-5: _[Projeto - Vocabulary Bosster]()_
+
+##### Bloco 22: Introdução à SQL
+
+- [X] 22-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+- [X] 22-2: _Normalização, Formas Normais e Dumps_
+- [X] 22-3: _Transformando ideias em um modelo de banco de dados - Parte 2_
+- [X] 22-4: _[Projeto - One for All]()_
