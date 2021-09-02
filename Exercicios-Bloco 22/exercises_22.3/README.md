@@ -59,12 +59,14 @@ WHERE postal_code = '36693';
 ###### Restaure o banco de dados HR abaixo antes de continuar, caso não o tenha restaurado em alguma lição anterior:
 ###### O banco de dados usado como base para os próximos exercícios pode ser restaurado através deste _[Arquivo SQL](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/sql/hr-cebf8bc2a5bb252bc470ae28943604c6.sql)_.
 
--1 - Baixe o conteúdo do arquivo .sql linkado acima;
--2 - Copie todo o código SQL;
--3 - Abra o MySQL Workbench e abra uma nova janela de query;
--4 - Cole o SQL para dentro dessa janela;
--5 - Selecione todo o código usando CTRL + A;
--6 - Execute-o teclando CTRL + ENTER.
+```
+-1. Baixe o conteúdo do arquivo .sql linkado acima;
+-2. Copie todo o código SQL;
+-3. Abra o MySQL Workbench e abra uma nova janela de query;
+-4. Cole o SQL para dentro dessa janela;
+-5. Selecione todo o código usando CTRL + A;
+-6. Execute-o teclando CTRL + ENTER.
+```
 
 Exercício 1: Escreva uma query SQL para alterar na tabela localtions o nome da coluna street_address para address , mantendo o mesmo tipo e tamanho de dados.
 
