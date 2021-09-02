@@ -4,15 +4,28 @@
 
 Exercício 1: Crie uma view chamada film_with_categories utilizando as tabelas category , film_category e film do banco de dados sakila . Essa view deve exibir o título do filme, o id da categoria e o nome da categoria, conforme a imagem abaixo. Os resultados devem ser ordenados pelo título do filme.
 
+![image](https://user-images.githubusercontent.com/80549950/131920584-4c94e3a0-9acf-4bbb-8a52-d8b306b45e9b.png)
+
+
 
 
 Exercício 2: Crie uma view chamada film_info utilizando as tabelas actor , film_actor e film do banco de dados sakila . Sua view deve exibir o actor_id , o nome completo do ator ou da atriz em uma coluna com o ALIAS actor e o título dos filmes. Os resultados devem ser ordenados pelos nomes de atores e atrizes. Use a imagem a seguir como referência.
+
+![image](https://user-images.githubusercontent.com/80549950/131920606-030d7da9-0780-4571-ad12-9a60219a1386.png)
+
 
 
 
 Exercício 3: Crie uma view chamada address_info que faça uso das tabelas address e city do banco de dados sakila . Sua view deve exibir o address_id , o address , o district , o city_id e a city . Os resultados devem ser ordenados pelo nome das cidades. Use a imagem abaixo como referência.
 
+![image](https://user-images.githubusercontent.com/80549950/131920635-242e4d97-a15e-411b-b2c5-7aacc8a38f7a.png)
+
+
 Exercício 4: Crie uma view chamada movies_languages , usando as tabelas film e language do banco de dados sakila . Sua view deve exibir o título do filme , o id do idioma e o idioma do filme , como na imagem a seguir.
+
+![image](https://user-images.githubusercontent.com/80549950/131920649-0fe1918f-f3f5-4a59-8e67-0d220bca5ed4.png)
+
+
 
 
 ## Desafios sobre INDEX
