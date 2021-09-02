@@ -57,7 +57,7 @@ WHERE postal_code = '36693';
 ## Desafios sobre ALTER TABLE
 
 ###### Restaure o banco de dados HR abaixo antes de continuar, caso não o tenha restaurado em alguma lição anterior:
-###### O banco de dados usado como base para os próximos exercícios pode ser restaurado através deste arquivo SQL.
+###### O banco de dados usado como base para os próximos exercícios pode ser restaurado através deste _[Arquivo SQL](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/sql/hr-cebf8bc2a5bb252bc470ae28943604c6.sql)_.
 
 -1 - Baixe o conteúdo do arquivo .sql linkado acima;
 -2 - Copie todo o código SQL;
