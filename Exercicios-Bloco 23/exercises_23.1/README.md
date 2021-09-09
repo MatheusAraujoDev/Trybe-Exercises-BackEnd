@@ -14,7 +14,7 @@
 
 - Exercício 6 - Retorne 2 documentos da coleção bios pulando os 5 primeiros documentos.
 
-###### Utilizando o mongoimport , importe o arquivo books.json para a sua instância local do MongoDB e utilize a coleção books para construir as seguintes consultas:
+###### Utilizando o _[mongoimport](https://docs.mongodb.com/database-tools/mongoimport/#examples)_ , importe o arquivo _[books.json](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/mongodb/books-48d15e4d8924badc2308cc4a62eb3ea4.json)_  para a sua instância local do MongoDB e utilize a coleção books para construir as seguintes consultas:
 
 - Exercício 7 - Retorne a quantidade de documentos da coleção books.
 
