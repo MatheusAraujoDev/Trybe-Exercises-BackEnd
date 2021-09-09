@@ -18,7 +18,7 @@
 
 - Exercício 8 - Retorne o total de super-heróis com olhos azuis.
 
-- Exercício 9 - 9: Utilizando o operador $in , selecione todos os super-heróis com cabelos pretos ou carecas ( "No Hair" ).
+- Exercício 9 - Utilizando o operador $in , selecione todos os super-heróis com cabelos pretos ou carecas ( "No Hair" ).
 
 - Exercício 10 - Retorne o total de super-heróis com cabelos pretos ou carecas ( "No Hair" ).
 
