@@ -80,19 +80,19 @@ O MongoDB possui diversas ferramentas, como, por exemplo, mongo , mongosh , Comp
 
 - **Exercício 15** - Adicione o campo description no filme Batman com o seguinte valor: "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker." .
 
-  **Exercício 16** - Adicione o campo description no filme Godzilla com o seguinte valor: "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity." .
+-  **Exercício 16** - Adicione o campo description no filme Godzilla com o seguinte valor: "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity." .
 
-  **Exercício 17** - Adicione o campo description no filme Home Alone com o seguinte valor: "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation." .
+-  **Exercício 17** - Adicione o campo description no filme Home Alone com o seguinte valor: "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation." .
 
-  **Exercício 18** - Utilizando o operador $regex , retorne todos os filmes em que a descrição comece com a palavra "The" .
+-  **Exercício 18** - Utilizando o operador $regex , retorne todos os filmes em que a descrição comece com a palavra "The" .
 
-  **Exercício 19**- Utilizando o operador $regex , retorne todos os filmes em que a descrição termine com a palavra "humanity." .
+-  **Exercício 19**- Utilizando o operador $regex , retorne todos os filmes em que a descrição termine com a palavra "humanity." .
 
-  **Exercício 20** - Crie um índice do tipo text no campo description .
+-  **Exercício 20** - Crie um índice do tipo text no campo description .
 
-  **Exercício 21** - Utilizando o operador $text , busque por filmes que contenham o termo "vacation" .
+-  **Exercício 21** - Utilizando o operador $text , busque por filmes que contenham o termo "vacation" .
 
-  **Exercício 22** - Utilizando o operador $text , busque por filmes que contenham os termos "monstrous" ou "criminal" .
+-  **Exercício 22** - Utilizando o operador $text , busque por filmes que contenham os termos "monstrous" ou "criminal" .
 
-  **Exercício 23** - Utilizando o operador $text , busque por filmes que contenham a frase "when he is accidentally" .
+-  **Exercício 23** - Utilizando o operador $text , busque por filmes que contenham a frase "when he is accidentally" .
 
