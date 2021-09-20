@@ -4,9 +4,9 @@
 
 1. Faça o download dos arquivos `json` , clicando com o botão direito e escolhando a opção "Salvar como":
 
-clientes
-produtos
-vendas
+ - _[clientes](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/mongodb/aggregation-framework/part-1/clientes-b41ac10693375ca85847468d9071f788.json)_
+ - _[produtos](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/mongodb/aggregation-framework/part-1/produtos-0a039404ac00200fe4a948986caf26c2.json)_
+ - _[vendas](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/mongodb/aggregation-framework/part-1/vendas-3e516ade3d00b07e1163e9be4e81bf37.json)_
 
 2. Faça a importação para sua instância do MongoDB:
 ```
