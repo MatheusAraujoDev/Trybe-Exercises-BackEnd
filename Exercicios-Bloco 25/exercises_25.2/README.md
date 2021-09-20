@@ -4,11 +4,13 @@ O MongoDb possui diversas ferramentas, como, por exemplo, mongo , mongosh , Comp
 
 Você continuará utilizando o banco de dados erp do dia anterior. Nos exercícios 1 a 8 , você utilizará o mesmo pipeline . A ideia é começar com um pipeline pequeno e ir adicionando estágios à medida que você for evoluindo nos exercícios. Vamos lá?
 
-- Exercício 1 - Utilize uma combinação das expressões aritméticas e adicione um campo chamado idade à coleção clientes . Algumas dicas:
 
+- Exercício 1 - Utilize uma combinação das expressões aritméticas e adicione um campo chamado idade à coleção clientes . Algumas dicas:
+```
 - arredonde para baixo o valor da idade;
 - calcule a idade usando a diferença entre a data corrente e a data de nascimento;
 - um dia é igual a 86400000 milissegundos.
+```
 
 - Exercício 2 - Utilizando o novo campo idade , conte quantos clientes têm entre 18 e 25 anos.
 
