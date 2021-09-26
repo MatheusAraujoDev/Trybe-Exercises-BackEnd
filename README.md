@@ -49,3 +49,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 25-1: _Aggregation Framework - Parte 1_
 - [X] 25-2: _Aggregation Framework - Parte 2_
 - [X] 25-3: _[Projeto - _Aggregations]()_
+
+##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
+
+- [X] 26-1: _NodeJS - Introdução_
+- [X] 26-2: _NodeJS - Fluxo Assíncrono_
+- [X] 26-3: _Testes com NodeJS_
+- [X] 26-4: _Express: HTTP com NodeJS_
+- [X] 26-5: _Express: Middlewares_
+- [X] 26-6: _[Projeto - Talker Manager]()_
