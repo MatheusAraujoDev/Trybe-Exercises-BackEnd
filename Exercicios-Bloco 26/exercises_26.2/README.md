@@ -22,7 +22,7 @@ Caso a Promise seja resolvida, escreva na tela o resultado do cálculo.
 - Lembre-se: a palavra chave await só pode ser utilizada dentro de funções async ..
 
 
-- Exercício 4 - Realize o download deste arquivo e salve-o como simpsons.json . Utilize o arquivo baixado para realizar os requisitos abaixo.
+- Exercício 4 - Realize o download _[deste arquivo](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/nodejs/async-flow/simpsons-94f8eb570f2ea830462ee2375ded177b.json)_ e salve-o como simpsons.json . Utilize o arquivo baixado para realizar os requisitos abaixo.
 
 Você pode utilizar then e catch , async/await ou uma mistura dos dois para escrever seu código. Procure não utilizar callbacks.
 - Crie uma função que leia todos os dados do arquivo e imprima cada personagem no formato id - Nome . Por exemplo: 1 - Homer Simpson .
