@@ -1,0 +1,11 @@
+{
+  "name": "my-exercises",
+  "version": "1.0.0",
+  "description": "Exercícios do Bloco 26 Dia 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Araújo",
+  "license": "ISC"
+}
