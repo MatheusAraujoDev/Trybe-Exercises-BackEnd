@@ -1,0 +1,16 @@
+{
+  "name": "my-exercises",
+  "version": "1.0.0",
+  "description": "Exercícios Bloco 26 Dia 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests"
+  },
+  "author": "Matheus Araújo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
