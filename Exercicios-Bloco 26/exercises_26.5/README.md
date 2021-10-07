@@ -2,6 +2,7 @@
 
 
 **Exercício 1** 
+
 1- Crie uma rota POST /user/register que receba uma requisição que envie username , email e password no body da requisição, onde:
 
 - username deve ter mais de 3 caracteres;
@@ -21,8 +22,9 @@
 
 #### Dicas: separe suas rotas em arquivos e utilize middlewares para validar os campos recebidos nas requisições
 
-
-**Exercício 2**  - Crie uma rota GET /btc/price que receba uma requisição com um token na chave Authorization do headers da requisição e verifique se ele está correto, onde:
+---
+**Exercício 2** 
+- Crie uma rota GET /btc/price que receba uma requisição com um token na chave Authorization do headers da requisição e verifique se ele está correto, onde:
 
 - O token deve ser uma string de 12 caracteres contendo letras e/ou números.
 - Para todos os casos não atendidos acima deve ser retornado o código de status e um JSON com uma mensagem de erro, ex: status 401 e { "message": "invalid token" } ;
@@ -30,8 +32,9 @@
 
 #### Dicas: - Sugestão de API ( https://api.coindesk.com/v1/bpi/currentprice/BTC.json); - O token será passado pelo header da seguinte forma: authorization: 86567349784e; - Utilize middlewares para validar o token; - Para fazer uma requisição a uma API externa utilizer o FETCH ou AXIOS, parecido com que vimos em Front-end;
 
-
+---
 **Exercício 3**
+
 1- Crie uma rota GET /posts/:id que receba uma requisição com um id como param route , verifique existência do post com aquele id, onde:
 
 - O id deve existir;
@@ -48,9 +51,9 @@
 
 #### Dicas: separe suas rotas em arquivos e utilize middleware de erro para capturar uma rota inexistente.
 
-
-
+---
 **Exercício 4**
+
 1- Crie uma rota POST /teams que receba uma requisição que envie name , initials , country e league no body da requisção, onde:
 
 - name deve ter mais de 5 caracteres;
